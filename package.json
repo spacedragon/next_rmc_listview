@@ -1,0 +1,13 @@
+{
+  "name": "rmclistview",
+  "description": "",
+  "dependencies": {
+    "next": "2.0.0-beta.16",
+    "rmc-list-view": "^0.7.4"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
